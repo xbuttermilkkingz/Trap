@@ -1,4 +1,4 @@
-# Trap
+# Bookmark FPS! WORKS 2025
 javascript:(function(){
     // Create a new div element to display the FPS
     var fpsDiv = document.createElement('div');
